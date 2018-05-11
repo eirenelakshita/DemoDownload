@@ -1,0 +1,25 @@
+body {
+    background-color: lightgray
+}
+
+.profile {
+    background-color: white;
+    text-align: center;
+    font-family: fantasy;
+    border-color: lavender;
+    border-width: medium;
+    border-style: dotted
+}
+
+#name {
+    font-size: 250%
+}
+
+.contact {
+    background-color: white;
+    text-align: center;
+    font-family: fantasy;
+    border-color: lavender;
+    border-width: medium;
+    border-style: dotted
+}
